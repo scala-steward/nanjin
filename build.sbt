@@ -18,7 +18,7 @@ val refined        = "0.9.9"
 val zioCats        = "2.0.0.0-RC3"
 
 val akkaKafka = "1.0.5"
-val fs2Kafka  = "0.20.0"
+val fs2Kafka  = "0.20.0-RC2-SNAPSHOT"  //"0.20.0"
 
 val sparkVersion     = "2.4.4"
 val framelessVersion = "0.8.0"
